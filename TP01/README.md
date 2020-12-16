@@ -1,0 +1,1 @@
+# EU / EEA pandemic situation repository
